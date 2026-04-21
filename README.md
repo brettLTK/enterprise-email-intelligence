@@ -1,3 +1,11 @@
+---
+type: DocumentArtifact
+title: Enterprise Email Intelligence Framework
+date: '2026-04-18'
+authors:
+- Unknown
+status: draft
+---
 # Enterprise Email Intelligence Framework
 
 **Personal → Enterprise Unified Architecture**  

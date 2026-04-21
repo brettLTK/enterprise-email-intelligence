@@ -1,3 +1,11 @@
+---
+type: DesignBrief
+title: GBrain Enterprise Scaling Architecture
+date: '2026-04-18'
+authors:
+- Unknown
+status: draft
+---
 # GBrain Enterprise Scaling Architecture
 
 ## 🧠 **How GBrain Solves Enterprise Email Intelligence**

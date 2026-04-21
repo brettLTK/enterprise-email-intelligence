@@ -1,3 +1,12 @@
+---
+type: Protocol
+title: LTK Enterprise Deployment Blueprint
+date: '2026-04-18'
+authors:
+- Unknown
+status: draft
+effective_date: '2026-04-18'
+---
 # LTK Enterprise Deployment Blueprint
 
 ## 🎯 **LTK-Specific Email Intelligence Implementation**
