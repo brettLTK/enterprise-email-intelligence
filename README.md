@@ -1,10 +1,12 @@
 ---
-type: DocumentArtifact
+type: note
 title: Enterprise Email Intelligence Framework
 date: '2026-04-18'
 authors:
 - Unknown
 status: draft
+subtype: DocumentArtifact
+effective_date: '2026-04-18'
 ---
 # Enterprise Email Intelligence Framework
 

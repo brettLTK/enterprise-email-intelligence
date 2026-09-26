@@ -1,10 +1,12 @@
 ---
-type: DesignBrief
+type: note
 title: GBrain Enterprise Scaling Architecture
 date: '2026-04-18'
 authors:
 - Unknown
 status: draft
+subtype: DesignBrief
+effective_date: '2026-04-18'
 ---
 # GBrain Enterprise Scaling Architecture
 

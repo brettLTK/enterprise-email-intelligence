@@ -1,11 +1,12 @@
 ---
-type: Protocol
+type: note
 title: Y Combinator Scale Operations - Garry Tan Intelligence
 date: '2026-04-18'
 authors:
 - Unknown
 status: draft
 effective_date: '2026-04-18'
+subtype: Protocol
 ---
 # Y Combinator Scale Operations - Garry Tan Intelligence
 

@@ -1,11 +1,12 @@
 ---
-type: Protocol
+type: note
 title: LTK Enterprise Deployment Blueprint
 date: '2026-04-18'
 authors:
 - Unknown
 status: draft
 effective_date: '2026-04-18'
+subtype: Protocol
 ---
 # LTK Enterprise Deployment Blueprint
 
